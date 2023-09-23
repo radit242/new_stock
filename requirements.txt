@@ -12,7 +12,6 @@ datetime==4.3
 prophet.plot==0.1
 sklearn.preprocessing==0.1.0
 matplolib.pyplot==3.6.3
-prophet.plot
 tensorflow.keras==2.13.0
 tensorflow.keras.layers==2.13.0
 tensorflow.keras.models==2.13.0
